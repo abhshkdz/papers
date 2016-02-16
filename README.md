@@ -15,6 +15,8 @@ Summaries of papers on deep learning.
     - Dzmitry Bahdanau, Kyunghyun Cho, Yoshua Bengio, ICLR, 2015
 - Object Detectors Emerge in Deep Scene CNNs [[Paper](http://arxiv.org/abs/1412.6856)] [[Review](https://github.com/abhshkdz/papers/blob/master/reviews/object-detectors-emerge-in-deep-scene-cnns.md)]
     - Bolei Zhou, Aditya Khosla, Agata Lapedriza, Aude Oliva, Antonio Torralba, ICLR, 2015
+- Stacked Attention Networks for Image Question Answering [[Paper](http://arxiv.org/abs/1511.02274)] [[Review](https://github.com/abhshkdz/papers/blob/master/reviews/stacked-attention-networks-for-image-question-answering.md)]
+    - Zichao Yang, Xiaodong He, Jianfeng Gao, Li Deng, Alex Smola, ArXiv, 2015
 - Striving for Simplicity: the All Convolutional Net [[Paper](http://arxiv.org/abs/1412.6806)] [[Review](https://github.com/abhshkdz/papers/blob/master/reviews/all-convolutional-net.md)]
     - Jost Tobias Springenberg, Alexey Dosovitskiy, Thomas Brox, Martin Riedmiller, ICLR, 2015
 - You Only Look Once: Unified, Real-Time Object Detection [[Paper](http://arxiv.org/abs/1506.02640)] [[Review](https://github.com/abhshkdz/papers/blob/master/reviews/you-only-look-once-unified-real-time-object-detection.md)]
