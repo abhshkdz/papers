@@ -44,4 +44,4 @@ question-type breakdown as well.
 
 - Right now, the attention distribution is learnt in an unsupervised manner by the network.
 It would be interesting to think about adding supervisory attention signal. Another way to
-imporove accuracies would be to use deeper LSTMs.
+improve accuracies would be to use deeper LSTMs.

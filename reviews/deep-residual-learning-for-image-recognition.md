@@ -36,7 +36,7 @@ is an ensemble of two networks.
 ## Weaknesses / Notes
 
 - The idea of shortcut connections to force blocks to learn residual functions preconditioned
-on identity mapping is a neat idea, and more so because it doesn't require additional parameters.
+on identity mapping is neat, and more so because it doesn't require additional parameters.
 
 - A lot of results and design decisions merit further investigation and reasoning.
     - Why do shortcuts skip 2 or 3 layers? What happens to performance if we increase the number of layers skipped?
