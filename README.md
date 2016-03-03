@@ -9,6 +9,8 @@ Summaries of papers on deep learning.
 
 2015
 
+- DenseCap: Fully Convolutional Localization Networks for Dense Captioning [[Paper](http://arxiv.org/abs/1511.07571)] [[Review](https://github.com/abhshkdz/papers/blob/master/reviews/densecap-fully-convolutional-localization-networks-for-dense-captioning.md)]
+    - Justin Johnson, Andrej Karpathy, Li Fei-Fei, ArXiv, 2015
 - DRAW: A Recurrent Neural Network For Image Generation [[Paper](http://arxiv.org/abs/1502.04623)] [[Review](https://github.com/abhshkdz/papers/blob/master/reviews/draw-a-recurrent-neural-network-for-image-generation.md)]
     - Karol Gregor, Ivo Danihelka, Alex Graves, Danilo Jimenez Rezende, Daan Wierstra, ICML, 2015
 - Neural Machine Translation by Jointly Learning to Align and Translate [[Paper](http://arxiv.org/abs/1409.0473)] [[Review](https://github.com/abhshkdz/papers/blob/master/reviews/neural-machine-translation-by-jointly-learning-to-align-and-translate.md)]
