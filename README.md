@@ -36,6 +36,8 @@ Summaries of papers on deep learning.
     - Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott Reed, Dragomir Anguelov, Dumitru Erhan, Vincent Vanhoucke, Andrew Rabinovich, ArXiv, 2014
 - How transferable are features in deep neural networks? [[Paper](http://arxiv.org/abs/1411.1792)] [[Review](https://github.com/abhshkdz/papers/blob/master/reviews/how-transferable-are-features-in-deep-neural-networks.md)]
     - Jason Yosinski, Jeff Clune, Yoshua Bengio, Hod Lipson, NIPS, 2014
+- Intriguing Properties of Neural Networks [[Paper](http://arxiv.org/abs/1312.6199)] [[Review](https://github.com/abhshkdz/papers/blob/master/reviews/intriguing-properties-of-neural-networks.md)]
+    - Christian Szegedy, Wojciech Zaremba, Ilya Sutskever, Joan Bruna, Dumitru Erhan, Ian Goodfellow, Rob Fergus, ICLR, 2014
 - Learning Deep Features for Scene Recognition using Places Database [[Paper](http://places.csail.mit.edu/places_NIPS14.pdf)] [[Review](https://github.com/abhshkdz/papers/blob/master/reviews/learning-deep-features-for-scene-recognition-using-places-database.md)]
     - Bolei Zhou, Agata Lapedriza, Jianxiong Xiao, Antonio Torralba, Aude Oliva, NIPS, 2014
 - Network in Network [[Paper](http://arxiv.org/abs/1312.4400)] [[Review](https://github.com/abhshkdz/papers/blob/master/reviews/network-in-network.md)]
