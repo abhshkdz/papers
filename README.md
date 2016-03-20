@@ -2,6 +2,8 @@ Summaries of papers on deep learning.
 
 2016
 
+- Deep Compositional Question Answering with Neural Module Networks [[Paper](http://arxiv.org/abs/1511.02799)] [[Review](https://github.com/abhshkdz/papers/blob/master/reviews/deep-compositional-question-answering-with-neural-module-networks.md)]
+    - Jacob Andreas, Marcus Rohrbach, Trevor Darrell, Dan Klein, CVPR, 2016
 - Deep Residual Learning for Image Recognition [[Paper](http://arxiv.org/abs/1512.03385)] [[Review](https://github.com/abhshkdz/papers/blob/master/reviews/deep-residual-learning-for-image-recognition.md)]
     - Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun, ArXiv, 2016
 - Net2Net: Accelerating Learning via Knowledge Transfer [[Paper](http://arxiv.org/abs/1511.05641)] [[Review](https://github.com/abhshkdz/papers/blob/master/reviews/net2net-accelerating-learning-via-knowledge-transfer.md)]
