@@ -6,6 +6,8 @@ Summaries of papers on deep learning.
     - Jacob Andreas, Marcus Rohrbach, Trevor Darrell, Dan Klein, CVPR, 2016
 - Deep Residual Learning for Image Recognition [[Paper](http://arxiv.org/abs/1512.03385)] [[Review](https://github.com/abhshkdz/papers/blob/master/reviews/deep-residual-learning-for-image-recognition.md)]
     - Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun, ArXiv, 2016
+- Identity Mappings in Deep Residual Networks [[Paper](http://arxiv.org/abs/1603.05027)] [[Review](https://github.com/abhshkdz/papers/blob/master/reviews/identity-mappings-in-deep-residual-networks.md)]
+    - Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun, ArXiv, 2016
 - Net2Net: Accelerating Learning via Knowledge Transfer [[Paper](http://arxiv.org/abs/1511.05641)] [[Review](https://github.com/abhshkdz/papers/blob/master/reviews/net2net-accelerating-learning-via-knowledge-transfer.md)]
     - Tianqi Chen, Ian Goodfellow, Jonathon Shlens, ICLR, 2016
 
