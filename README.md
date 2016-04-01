@@ -10,6 +10,8 @@ Summaries of papers on deep learning.
     - Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun, ArXiv, 2016
 - Net2Net: Accelerating Learning via Knowledge Transfer [[Paper](http://arxiv.org/abs/1511.05641)] [[Review](https://github.com/abhshkdz/papers/blob/master/reviews/net2net-accelerating-learning-via-knowledge-transfer.md)]
     - Tianqi Chen, Ian Goodfellow, Jonathon Shlens, ICLR, 2016
+- Recurrent Batch Normalization [[Paper](http://arxiv.org/abs/1603.09025)] [[Review](https://github.com/abhshkdz/papers/blob/master/reviews/recurrent-batch-normalization.md)]
+    - Tim Cooijmans, Nicolas Ballas, César Laurent, Aaron Courville, ArXiv, 2016
 
 2015
 
