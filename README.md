@@ -16,6 +16,8 @@ Summaries of papers on deep learning.
     - Tianqi Chen, Ian Goodfellow, Jonathon Shlens, ICLR, 2016
 - Recurrent Batch Normalization [[Paper](http://arxiv.org/abs/1603.09025)] [[Review](https://github.com/abhshkdz/papers/blob/master/reviews/recurrent-batch-normalization.md)]
     - Tim Cooijmans, Nicolas Ballas, César Laurent, Aaron Courville, ArXiv, 2016
+- Residual Networks are Exponential Ensembles of Relatively Shallow Networks [[Paper](http://arxiv.org/abs/1605.06431)] [[Review](https://github.com/abhshkdz/papers/blob/master/reviews/residual-networks-are-exponential-ensembles-of-relatively-shallow-networks.md)]
+    - Andreas Veit, Michael Wilber, Serge Belongie, ArXiv, 2016
 
 2015
 
