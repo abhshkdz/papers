@@ -10,6 +10,8 @@ Summaries of papers on deep learning.
     - Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun, ArXiv, 2016
 - Delving Deeper into Convolutional Networks for Learning Video Representations [[Paper](http://arxiv.org/abs/1511.06432)] [[Review](https://github.com/abhshkdz/papers/blob/master/reviews/delving-deeper-into-convolutional-networks-for-learning-video-representations.md)]
     - Nicolas Ballas, Li Yao, Chris Pal, Aaron Courville, ICLR, 2016
+- Dynamic Capacity Networks [[Paper](http://arxiv.org/abs/1511.07838)] [[Review](https://github.com/abhshkdz/papers/blob/master/reviews/dynamic-capacity-networks.md)]
+    - Amjad Almahairi, Nicolas Ballas, Tim Cooijmans, Yin Zheng, Hugo Larochelle, Aaron Courville, ICML, 2016
 - Identity Mappings in Deep Residual Networks [[Paper](http://arxiv.org/abs/1603.05027)] [[Review](https://github.com/abhshkdz/papers/blob/master/reviews/identity-mappings-in-deep-residual-networks.md)]
     - Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun, ArXiv, 2016
 - Net2Net: Accelerating Learning via Knowledge Transfer [[Paper](http://arxiv.org/abs/1511.05641)] [[Review](https://github.com/abhshkdz/papers/blob/master/reviews/net2net-accelerating-learning-via-knowledge-transfer.md)]

@@ -21,5 +21,3 @@ This paper presents a neat method for learning spatio-temporal representations f
 - The idea is simple and elegant. Earlier methods for learning video representations typically used 3D convolutions (k x k x T filters), which suffered from finite temporal capacity, or RNNs sitting on top of last-layer CNN features, which is unable to capture finer spatial resolution. In theory, this formulation solves both.
 
 - Changing fully-connected operations to convolutions has the additional advantage of requiring lesser parameters (n\_input x n\_output x input\_width x input\_height v/s n\_input x n\_output x k\_width x k\_height).
-
-## Weaknesses / Notes
