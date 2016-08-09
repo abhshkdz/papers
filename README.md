@@ -2,6 +2,8 @@ Summaries of papers on deep learning.
 
 2016
 
+- Actions ~ Transformations [[Paper](https://arxiv.org/abs/1512.00795)] [[Review](https://github.com/abhshkdz/papers/blob/master/reviews/actions-~-transformations.md)]
+    - Xiaolong Wang, Ali Farhadi, Abhinav Gupta, CVPR, 2016
 - Deep Compositional Question Answering with Neural Module Networks [[Paper](http://arxiv.org/abs/1511.02799)] [[Review](https://github.com/abhshkdz/papers/blob/master/reviews/deep-compositional-question-answering-with-neural-module-networks.md)]
     - Jacob Andreas, Marcus Rohrbach, Trevor Darrell, Dan Klein, CVPR, 2016
 - Deep Networks with Stochastic Depth [[Paper](https://arxiv.org/abs/1603.09382)] [[Review](https://github.com/abhshkdz/papers/blob/master/reviews/deep-networks-with-stochastic-depth.md)]
