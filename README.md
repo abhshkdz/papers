@@ -24,6 +24,8 @@ Summaries of papers on deep learning.
     - Tim Cooijmans, Nicolas Ballas, César Laurent, Aaron Courville, ArXiv, 2016
 - Residual Networks are Exponential Ensembles of Relatively Shallow Networks [[Paper](http://arxiv.org/abs/1605.06431)] [[Review](https://github.com/abhshkdz/papers/blob/master/reviews/residual-networks-are-exponential-ensembles-of-relatively-shallow-networks.md)]
     - Andreas Veit, Michael Wilber, Serge Belongie, ArXiv, 2016
+- Residual Networks of Residual Networks: Multilevel Residual Networks, ArXiv, 2016 [[Paper](http://arxiv.org/abs/1608.02908)] [[Review](https://github.com/abhshkdz/papers/blob/master/reviews/residual-networks-of-residual-networks-multilevel-residual-networks.md)]
+    - Ke Zhang, Miao Sun, Tony X. Han, Xingfang Yuan, Liru Guo, Tao Liu, ArXiv, 2016
 
 2015
 
