@@ -62,6 +62,8 @@ Summaries of papers on deep learning.
     - Bolei Zhou, Agata Lapedriza, Jianxiong Xiao, Antonio Torralba, Aude Oliva, NIPS, 2014
 - Network in Network [[Paper](http://arxiv.org/abs/1312.4400)] [[Review](https://github.com/abhshkdz/papers/blob/master/reviews/network-in-network.md)]
     - Min Lin, Qiang Chen, Shuicheng Yan, ICLR, 2014
+- Neural Turing Machines [[Paper](https://arxiv.org/abs/1410.5401)] [[Review](https://github.com/abhshkdz/papers/blob/master/reviews/neural-turing-machines.md)]
+    - Alex Graves, Greg Wayne, Ivo Danihelka, ArXiv, 2014
 - Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation [[Paper](http://arxiv.org/abs/1311.2524)] [[Review](https://github.com/abhshkdz/papers/blob/master/reviews/rich-feature-hierarchies-for-accurate-object-detection-and-semantic-segmentation.md)]
     - Ross Girshick, Jeff Donahue, Trevor Darrell, Jitendra Malik, CVPR, 2014
 - Sequence to Sequence Learning with Neural Networks [[Paper](http://arxiv.org/abs/1409.3215)] [[Review](https://github.com/abhshkdz/papers/blob/master/reviews/sequence-to-sequence-learning-with-neural-networks.md)]
