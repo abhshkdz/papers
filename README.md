@@ -8,6 +8,8 @@ Summaries of papers on deep learning.
     - Jacob Andreas, Marcus Rohrbach, Trevor Darrell, Dan Klein, CVPR, 2016
 - Deep Networks with Stochastic Depth [[Paper](https://arxiv.org/abs/1603.09382)] [[Review](https://github.com/abhshkdz/papers/blob/master/reviews/deep-networks-with-stochastic-depth.md)]
     - Gao Huang, Yu Sun, Zhuang Liu, Daniel Sedra, Kilian Weinberger, ArXiv, 2016
+- Deep Reinforcement Learning for Dialogue Generation [[Paper](https://arxiv.org/abs/1606.01541)] [[Review](reviews/deep-reinforcement-learning-for-dialogue-generation.md)]
+    - Jiwei Li, Will Monroe, Alan Ritter, Michel Galley, Jianfeng Gao, Dan Jurafsky, ArXiv, 2016
 - Deep Residual Learning for Image Recognition [[Paper](http://arxiv.org/abs/1512.03385)] [[Review](https://github.com/abhshkdz/papers/blob/master/reviews/deep-residual-learning-for-image-recognition.md)]
     - Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun, ArXiv, 2016
 - Delving Deeper into Convolutional Networks for Learning Video Representations [[Paper](http://arxiv.org/abs/1511.06432)] [[Review](https://github.com/abhshkdz/papers/blob/master/reviews/delving-deeper-into-convolutional-networks-for-learning-video-representations.md)]
