@@ -31,6 +31,8 @@ Summaries of papers on deep learning.
 
 2015
 
+- Deep Visual Analogy-Making [[Paper](https://papers.nips.cc/paper/5845-deep-visual-analogy-making)] [[Review](https://github.com/abhshkdz/papers/blob/master/reviews/deep-visual-analogy-making.md)]
+    - Scott E. Reed, Yi Zhang, Yuting Zhang, Honglak Lee, NIPS, 2015
 - DenseCap: Fully Convolutional Localization Networks for Dense Captioning [[Paper](http://arxiv.org/abs/1511.07571)] [[Review](https://github.com/abhshkdz/papers/blob/master/reviews/densecap-fully-convolutional-localization-networks-for-dense-captioning.md)]
     - Justin Johnson, Andrej Karpathy, Li Fei-Fei, ArXiv, 2015
 - DRAW: A Recurrent Neural Network For Image Generation [[Paper](http://arxiv.org/abs/1502.04623)] [[Review](https://github.com/abhshkdz/papers/blob/master/reviews/draw-a-recurrent-neural-network-for-image-generation.md)]
