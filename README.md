@@ -83,3 +83,5 @@ Summaries of papers on deep learning.
 
 - ImageNet Classification with Deep Convolutional Neural Networks [[Paper](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)] [[Review](https://github.com/abhshkdz/papers/blob/master/reviews/imagenet-classification-with-deep-convolutional-neural-networks.md)]
     - Alex Krizhevsky, Ilya Sutskever, Geoffrey Hinton, NIPS, 2012
+- What Question Would Turing Pose Today? [[Paper](http://www.aaai.org/ojs/index.php/aimagazine/article/view/2441)] [[Review](https://github.com/abhshkdz/papers/blob/master/reviews/what-question-would-turing-pose-today.md)]
+    - Barbara Grosz, AI Magazine, 2012
