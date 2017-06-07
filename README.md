@@ -1,5 +1,10 @@
 Summaries of papers on deep learning.
 
+2017
+
+- A simple neural network module for relational reasoning [[Paper](https://arxiv.org/abs/1706.01427)] [[Review](https://github.com/abhshkdz/papers/blob/master/reviews/a-simple-neural-network-module-for-relational-reasoning.md)]
+    - Adam Santoro, David Raposo, David G.T. Barrett, Mateusz Malinowski, Razvan Pascanu, Peter Battaglia, Timothy Lillicrap, ArXiv, 2017
+
 2016
 
 - Actions ~ Transformations [[Paper](https://arxiv.org/abs/1512.00795)] [[Review](https://github.com/abhshkdz/papers/blob/master/reviews/actions-~-transformations.md)]
