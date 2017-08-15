@@ -6,6 +6,8 @@ Summaries of papers on deep learning.
     - Haonan Yu, Haichao Zhang, Wei Xu, ArXiv, 2017
 - A simple neural network module for relational reasoning [[Paper](https://arxiv.org/abs/1706.01427)] [[Review](https://github.com/abhshkdz/papers/blob/master/reviews/a-simple-neural-network-module-for-relational-reasoning.md)]
     - Adam Santoro, David Raposo, David G.T. Barrett, Mateusz Malinowski, Razvan Pascanu, Peter Battaglia, Timothy Lillicrap, ArXiv, 2017
+- Towards Diverse and Natural Image Descriptions via a Conditional GAN [[Paper](https://arxiv.org/abs/1703.06029)] [[Review](https://github.com/abhshkdz/papers/blob/master/reviews/towards-diverse-and-natural-image-descriptions-via-a-conditional-gan.md)]
+    - Bo Dai, Sanja Fidler, Raquel Urtasun, Dahua Lin, ICCV, 2017
 
 2016
 
