@@ -5,7 +5,11 @@ Summaries of papers on deep learning.
 - A Deep Compositional Framework for Human-like Language Acquisition in Virtual Environment [[Paper](https://arxiv.org/abs/1703.09831)] [[Review](https://github.com/abhshkdz/papers/blob/master/reviews/a-deep-compositional-framework-for-human-like-language-acquisition-in-virtual-environment.md)]
     - Haonan Yu, Haichao Zhang, Wei Xu, ArXiv, 2017
 - A simple neural network module for relational reasoning [[Paper](https://arxiv.org/abs/1706.01427)] [[Review](https://github.com/abhshkdz/papers/blob/master/reviews/a-simple-neural-network-module-for-relational-reasoning.md)]
-    - Adam Santoro, David Raposo, David G.T. Barrett, Mateusz Malinowski, Razvan Pascanu, Peter Battaglia, Timothy Lillicrap, ArXiv, 2017
+    - Adam Santoro, David Raposo, David G.T. Barrett, Mateusz Malinowski, Razvan Pascanu, Peter Battaglia, Timothy Lillicrap, NIPS, 2017
+- Are You Talking to Me? Reasoned Visual Dialog Generation through Adversarial Learning [[Paper](https://arxiv.org/abs/1711.07613)] [[Review](https://github.com/abhshkdz/papers/blob/master/reviews/are-you-talking-to-me?-reasoned-visual-dialog-generation-through-adversarial-learning.md)]
+    - Qi Wu, Peng Wang, Chunhua Shen, Ian Reid, Anton van den Hengel, ArXiv, 2017
+- From Red Wine to Red Tomato: Composition with Context [[Paper](http://www.cs.cmu.edu/~imisra/data/composing_cvpr17.pdf)] [[Review](https://github.com/abhshkdz/papers/blob/master/reviews/from-red-wine-to-red-tomato-composition-with-context.md)]
+    - Ishan Misra, Abhinav Gupta, Martial Hebert, CVPR, 2017
 - Towards Diverse and Natural Image Descriptions via a Conditional GAN [[Paper](https://arxiv.org/abs/1703.06029)] [[Review](https://github.com/abhshkdz/papers/blob/master/reviews/towards-diverse-and-natural-image-descriptions-via-a-conditional-gan.md)]
     - Bo Dai, Sanja Fidler, Raquel Urtasun, Dahua Lin, ICCV, 2017
 
