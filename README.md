@@ -1,5 +1,10 @@
 Summaries of papers on deep learning.
 
+2018
+
+- World Models [[Paper](https://arxiv.org/abs/1803.10122)] [[Review](https://github.com/abhshkdz/papers/blob/master/reviews/world-models.md)]
+    - David Ha, Jürgen Schmidhuber, ArXiv, 2018
+
 2017
 
 - A Deep Compositional Framework for Human-like Language Acquisition in Virtual Environment [[Paper](https://arxiv.org/abs/1703.09831)] [[Review](https://github.com/abhshkdz/papers/blob/master/reviews/a-deep-compositional-framework-for-human-like-language-acquisition-in-virtual-environment.md)]
