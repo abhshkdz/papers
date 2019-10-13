@@ -5,7 +5,7 @@ Summaries of papers on deep learning.
 - World Models [[Paper](https://arxiv.org/abs/1803.10122)] [[Review](https://github.com/abhshkdz/papers/blob/master/reviews/world-models.md)]
     - David Ha, Jürgen Schmidhuber, ArXiv, 2018
     
-- GAN-based synthetic medical image augmentation for increased CNN performance in liver lesion classification [[Paper] (https://www.sciencedirect.com/science/article/pii/S0925231218310749)]
+- GAN-based synthetic medical image augmentation for increased CNN performance in liver lesion classification. [[Paper](https://www.sciencedirect.com/science/article/pii/S0925231218310749)]
     - Frid-Adar, Maayan, et al. (Neurocomputing Journal (2018), Elsevier）
 
 2017
